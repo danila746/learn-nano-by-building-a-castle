@@ -34,3 +34,5 @@ echo hello nano
 touch castle.sh
 ls --color=auto
 git add .
+git commit -m "new one"
+git push origin
