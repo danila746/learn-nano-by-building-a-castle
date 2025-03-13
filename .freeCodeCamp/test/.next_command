@@ -88,3 +88,4 @@ __vsc_prompt_cmd_original
 bash castle.sh
 ls --color=auto -l
 nano castle.sh
+bash castle.sh
