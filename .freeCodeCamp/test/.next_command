@@ -89,3 +89,4 @@ bash castle.sh
 ls --color=auto -l
 nano castle.sh
 bash castle.sh
+git add .
